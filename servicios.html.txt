@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dior Beauty - Services</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a href="index.html" class="logo">DIOR BEAUTY</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="nosotros.html">Nosotros</a></li>
+            <li><a href="servicios.html">Servicios</a></li>
+            <li><a href="galeria.html">Galería</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <h2>Nuestros Servicios Destacados</h2>
+        
+        <div style="margin-bottom: 40px;">
+            <h3>Manicurista</h3>
+            <p>Ofrecemos servicios de manicure con diseños modernos, elegantes y personalizados para resaltar la belleza de tus uñas y complementar tu estilo.</p>
+            <img src="img/mani.jpg" alt="Arquitectura de Sistemas" style="max-width: 100%; height: auto; margin-top: 10px; border-radius: 4px;">
+        </div>
+
+        <div style="margin-bottom: 40px;">
+            <h3>Estilista</h3>
+            <p>En Dior Beauty también contamos con servicio de estilista, donde nos enfocamos en realizar tu imagen personal con cortes modernos, peinados, tintes y tratamientos capilares.</p>
+            <img src="img/estilis.jpg" alt="Consultoría Técnico" style="max-width: 100%; height: auto; margin-top: 10px; border-radius: 4px;">
+        </div>
+
+        <div style="margin-bottom: 40px;">
+            <h3>Asesor de imagen</h3>
+            <p>En Dior Beauty contamos con asesores de imagen que te ayudan a encontrar el estilo perfecto para ti.</p>
+            <img src="img/colo.jpg" alt="Enfoque" style="max-width: 100%; height: auto; margin-top: 10px; border-radius: 4px;">
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 Valeria Munguía. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>

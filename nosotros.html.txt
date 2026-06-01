@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dior Beauty - Nosotros</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a href="index.html" class="logo">DIOR BEAUTY</a>
+        <ul class="nav-links">
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="nosotros.html">Nosotros</a></li>
+            <li><a href="servicios.html">Servicios</a></li>
+            <li><a href="galeria.html">Galería</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <h2>Sobre Nuestros Productos</h2>
+        
+        <h2>Nuestro propósito</h2>
+        <p>Ofrecemos una amplia variedad de productos de belleza y cuidado personal para ayudarte a resaltar tu estilo y confianza. Contamos con maquillaje de alta calidad, productos para el cuidado de la piel, perfumes, brochas, pestañas, labiales, bases y accesorios modernos. Trabajamos con las últimas tendencias en cosméticos para brindarte elegancia, glamour y belleza en cada detalle.</p>
+        
+        <div style="text-align: center; margin: 20px 0;">
+            <img src="img/dior.jpg" alt="Equipo trabajando" style="max-width: 100%; height: auto; border-radius: 4px;">
+        </div>
+
+        <h2>¿Por qué elegirnos?</h2>
+        <p>Porque tu belleza merece lo mejor.</p>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 Valeria Munguía. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
